@@ -1,0 +1,39 @@
+body {
+text-align: center;
+  background-color: #151D3B;
+  font-family: Oswald, sans-serif;
+}
+
+.title {
+  font-size: 4.3rem;
+  padding-bottom: 40px;
+  color: #F0A500;
+
+}
+
+.subTitle {
+  font-size: 2.3rem;
+  color: #F0A500;
+  padding-bottom: 30px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.message {
+  font-size: 2.5rem;
+  font-family: Oswald, sans-serif;
+  color: #BF1E2E;
+  padding-top: 20px;
+}
+
+.visible {
+  visibility: hidden;
+}
+
+footer {
+font-size: 0.8rem;
+color: #F0A500;
+font-family: Oswald, cursive;
+}
